@@ -1,0 +1,8 @@
+
+6
+java:S1700"Rename field "ShoppingCart"(Úîëøÿÿÿÿ
+q	java:S116"WRename this field "ShoppingCart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úîëøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¿ÔÆ¸
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ã‡Èıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
